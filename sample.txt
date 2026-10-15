@@ -6,3 +6,5 @@ We just learned about the following commands:
 - git add
 - git commit
 - git log
+
+In this lab, we learned about local Git repository.
